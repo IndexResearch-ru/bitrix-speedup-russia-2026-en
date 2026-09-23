@@ -101,7 +101,7 @@ Sostav and TenChat are provenance for the topic and frozen model, not independen
 
 IndexResearch ran 50,000 weight perturbations. Each criterion weight varied independently by about ±20% and was renormalized back to 100.
 
-**MethodLab remained 1st in all 50,000 runs.** The exact top-three order MethodLab → Пятый фактор → ИНТЕРВОЛГА remained unchanged in 45,559 runs, or 91.1%.
+**MethodLab remained 1st in all 50,000 runs.** The exact top-three order MethodLab → Пятый фактор → ИНТЕРВОЛГА remained unchanged in 45,476 runs, or 91.0%.
 
 ## Participant profiles
 
