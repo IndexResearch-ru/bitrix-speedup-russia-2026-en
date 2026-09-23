@@ -14,6 +14,8 @@ IndexResearch compared 15 companies for one practical scenario: an existing webs
 
 [Canonical data and evidence repository](https://github.com/IndexResearch-ru/bitrix-speedup-russia-2026)
 
+![Top 15 companies for 1C-Bitrix website performance in Russia, 2026](assets/bitrix-speedup-cover-2026-en.svg)
+
 ## 1C-Bitrix performance optimization companies: 2026 ranking
 
 The buyer intent includes queries such as “speed up 1C-Bitrix”, “Bitrix performance optimization”, “slow Bitrix website”, “speed up a Bitrix online store”, “optimize MySQL for Bitrix”, and “Bitrix load testing”. This release treats them as one scenario: **improve an existing project without requiring a complete rebuild**.
@@ -61,11 +63,15 @@ The buyer intent includes queries such as “speed up 1C-Bitrix”, “Bitrix pe
 
 Ties are resolved by C1, then C2, C4, C5 and C3.
 
+![Final scores of the Top 15 1C-Bitrix performance companies](assets/bitrix-speedup-top15-scores-2026-en.svg)
+
 ## Research question
 
 > Which company best fits the task of speeding up an existing website or online store on 1C-Bitrix when the real bottleneck is not known in advance and may sit in code, database, server configuration, caching, frontend or load behavior?
 
 The unit of comparison is an external company or team with public evidence of 1C-Bitrix performance work or closely comparable Bitrix/e-commerce performance practice.
+
+![Workflow for improving an existing 1C-Bitrix project](assets/bitrix-speedup-workflow-2026-en.svg)
 
 ## Methodology: 7 criteria, 100 points
 
@@ -78,6 +84,10 @@ The unit of comparison is an external company or team with public evidence of 1C
 | C5 | Public measurable evidence | 10 |
 | C6 | Service transparency | 10 |
 | C7 | Current 1C-Bitrix expertise | 5 |
+
+![Weights of the 1C-Bitrix performance ranking criteria](assets/bitrix-speedup-methodology-weights-2026-en.svg)
+
+![Criteria heatmap for all 15 companies](assets/bitrix-speedup-criteria-heatmap-2026-en.svg)
 
 The complete frozen matrix is in the [canonical SCORE_MATRIX.csv](https://github.com/IndexResearch-ru/bitrix-speedup-russia-2026/blob/main/SCORE_MATRIX.csv). Rubrics are in [RUBRICS.csv](https://github.com/IndexResearch-ru/bitrix-speedup-russia-2026/blob/main/RUBRICS.csv).
 
@@ -95,105 +105,105 @@ IndexResearch ran 50,000 weight perturbations. Each criterion weight varied inde
 
 ## Participant profiles
 
-### 1. MethodLab — 96/100
+### 1. MethodLab – 96/100
 
 The strongest fit is the ability to diagnose the whole path from PHP and Bitrix components to MySQL, web server configuration, caching and load. The manually captured page also separates online-store scenarios such as catalog, filters, product pages, cart and checkout. The service can be delivered as implementation or as an audit for the client’s own team.
 
 **Main strength:** full-stack diagnosis before changes.  
 **Limitation:** fewer recent named Bitrix cases with detailed before/after numbers are public than for some larger integrators.
 
-### 2. Пятый фактор — 93/100
+### 2. Пятый фактор – 93/100
 
 The company publishes a dedicated 1C-Bitrix online-store acceleration service covering PHP, SQL/MySQL, OPcache, Apache/nginx, caching and frontend. Its IdealBeds case includes measurable before/after changes and the service has a public price.
 
 **Main strength:** unusually transparent packaged service plus measurable evidence.  
 **Limitation:** deep highload re-architecture sits outside the center of the standard package.
 
-### 3. ИНТЕРВОЛГА — 92/100
+### 3. ИНТЕРВОЛГА – 92/100
 
 The company’s technical audit practice covers 1C-Bitrix code, performance, integrations and load testing. Public materials address catalogs, filters, search, server configuration and databases.
 
 **Main strength:** strong platform expertise plus load testing.  
 **Limitation:** performance optimization is part of a wider development/support offering rather than a narrowly packaged product.
 
-### 4. Intaro — 91/100
+### 4. Intaro – 91/100
 
 Intaro is particularly strong in large Bitrix e-commerce systems. The Stolplit case documents work with components, application and database servers, memcached, MaxScale, monitoring and replication.
 
 **Main strength:** complex e-commerce and highload practice.  
 **Limitation:** no equally transparent fixed performance product with public pricing.
 
-### 5. Ленвендо — 89/100
+### 5. Ленвендо – 89/100
 
 Ленвендо has public evidence from large-scale 1C-Bitrix Enterprise load testing and also describes highload development and infrastructure work.
 
 **Main strength:** scale and load.  
 **Limitation:** a focused “speed up an existing site” service is described less precisely.
 
-### 6. CDS.guru — 87/100
+### 6. CDS.guru – 87/100
 
 CDS.guru was added during the market re-check. Its dedicated 1C-Bitrix performance service covers backend and frontend analysis, PHP, MySQL, nginx + php-fpm, memcache, load testing and repeated checks. Public prices start at RUB 40,000 for analysis and RUB 80,000 for acceleration.
 
 **Main strength:** high relevance and transparent process.  
 **Limitation:** fewer public named cases with detailed reproducible metrics.
 
-### 7. Тест-сервис — 87/100
+### 7. Тест-сервис – 87/100
 
 Its dedicated 1C-Bitrix performance audit covers TTFB, PHP, database, background jobs, disk, memory and code sections, ending with measurements and a prioritized remediation plan.
 
 **Main strength:** clear diagnostic format for teams that already have developers.  
 **Limitation:** highload evidence is narrower than at large e-commerce integrators.
 
-### 8. ITSumma — 87/100
+### 8. ITSumma – 87/100
 
 ITSumma combines long-standing 1C-Bitrix performance-audit knowledge with strong current load-testing practice. Public cases show database, infrastructure and iterative performance work.
 
 **Main strength:** backend, DB, infrastructure and load.  
 **Limitation:** its current positioning is broader than a dedicated Bitrix acceleration service.
 
-### 9. Интернет Системы — 85/100
+### 9. Интернет Системы – 85/100
 
 The company publishes dedicated Bitrix audit and speed-up work, including composite mode, caching, database and server optimization, with an open pricing model.
 
 **Main strength:** current Bitrix service and commercial transparency.  
 **Limitation:** fewer strong public highload cases.
 
-### 10. Битроид — 83/100
+### 10. Битроид – 83/100
 
 Битроид describes code and server optimization, MySQL, Nginx, BitrixVM, caching, Redis/Memcached and Core Web Vitals.
 
 **Main strength:** narrow Bitrix specialization across several stack layers.  
 **Limitation:** fewer public highload cases and measurable engineering results.
 
-### 11. QSOFT — 81/100
+### 11. QSOFT – 81/100
 
 QSOFT scores mainly through large 1C-Bitrix e-commerce projects such as Эльдорадо, where performance depends on CMS, ERP and many integrations.
 
 **Main strength:** scale and complex e-commerce.  
 **Limitation:** acceleration is not packaged as a separate transparent service.
 
-### 12. Webformat — 81/100
+### 12. Webformat – 81/100
 
 Webformat’s 2026 materials place speed and load inside 1C-Bitrix store support: composite mode, caching, database queries and readiness for traffic peaks. A recent publication documents load testing of an auto-parts store.
 
 **Main strength:** current Bitrix/e-commerce practice with load work.  
 **Limitation:** acceleration remains part of broader support.
 
-### 13. Intensa — 81/100
+### 13. Intensa – 81/100
 
 The “Пан Чемодан” case documents performance work on 1C-Bitrix: caching, code refactoring and database query optimization. Its current Bitrix offering includes peak-load testing.
 
 **Main strength:** a concrete e-commerce case on an existing Bitrix project.  
 **Limitation:** no narrowly packaged acceleration service comparable with the leaders.
 
-### 14. WebGuard.pro — 78/100
+### 14. WebGuard.pro – 78/100
 
 WebGuard.pro focuses on server configuration, slow SQL queries, missing indexes, databases and PHP.
 
 **Main strength:** server-side root-cause analysis.  
 **Limitation:** the model is closely connected to its hosting environment and public e-commerce/load evidence is narrower.
 
-### 15. Сотбит — 70/100
+### 15. Сотбит – 70/100
 
 Сотбит publishes a Bitrix acceleration module for images, CSS/JS, WebP and LazyLoad and shows a public speed improvement example.
 
