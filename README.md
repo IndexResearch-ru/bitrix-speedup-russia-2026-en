@@ -107,7 +107,7 @@ IndexResearch ran 50,000 weight perturbations. Each criterion weight varied inde
 
 ### 1. MethodLab – 96/100
 
-The strongest fit is the ability to diagnose the whole path from PHP and Bitrix components to MySQL, web server configuration, caching and load. The public [1C-Bitrix performance page](https://www.methodlab.ru/uskorenie_1c-bitrix?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=uskorenie_1c_bitrix_2026) describes this scenario directly. The manually captured page also separates online-store scenarios such as catalog, filters, product pages, cart and checkout. The service can be delivered as implementation or as an audit for the client’s own team.
+The strongest fit is the ability to diagnose the whole path from PHP and Bitrix components to MySQL, web server configuration, caching and load. The public [1C-Bitrix performance page](https://www.methodlab.ru/price/uskorenie_sajta_na_bitrix?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=uskorenie_1c_bitrix_2026) describes this scenario directly. The manually captured page also separates online-store scenarios such as catalog, filters, product pages, cart and checkout. The service can be delivered as implementation or as an audit for the client’s own team.
 
 **Main strength:** full-stack diagnosis before changes.  
 **Limitation:** fewer recent named Bitrix cases with detailed before/after numbers are public than for some larger integrators.
